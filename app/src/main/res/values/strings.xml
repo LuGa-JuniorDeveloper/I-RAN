@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">I-RAN</string>
+    <string name="code">Código</string>
+    <string name="required">*Requerido</string>
+    <string name="energy">Energía</string>
+    <string name="solar_panel">Panel Solar</string>
+    <string name="power">Potencia:</string>
+    <string name="w_155">155W</string>
+    <string name="w_85">85W</string>
+    <string name="voc">Voltage de circuito abierto:</string>
+    <string name="vcc">Voltage de circuito cerrado:</string>
+    <string name="short_circuit_current">Corriente de corto circuito:</string>
+    <string name="state">Estado:</string>
+    <string name="controller">Controlador de carga</string>
+    <string name="tradeMark">Marca:</string>
+    <string name="battery">Batería</string>
+    <string name="inspection_data">Datos del mantenimiento</string>
+    <string name="telemetry">Telemetría</string>
+    <string name="type">Tipo:</string>
+    <string name="instrumentation">Instrumentación</string>
+    <string name="type_of_fault">Tipo de falla</string>
+    <string name="by">Por:</string>
+    <string name="send">ENVIAR</string>
 </resources>
