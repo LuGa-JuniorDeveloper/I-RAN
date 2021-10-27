@@ -21,4 +21,18 @@
     <string name="type_of_fault">Tipo de falla</string>
     <string name="by">Por:</string>
     <string name="send">ENVIAR</string>
+    <string name="on">Encendido</string>
+    <string name="please_wait">Espere. Por favor ...</string>
+    <string name="saving">Guardando...</string>
+
+    <string name="okey">OK</string>
+    <string name="signin">sssssss</string>
+    <string name="operation_successful">Operación exitosa</string>
+    <string name="cancel">Cancelar</string>
+    <string name="question_success_dialog">¿Desea agregar otra batería?</string>
+    <string name="operation_failed">Operación fallida</string>
+    <string name="question_error_dialog">¿Desea intentar guardar la batería?</string>
+    <string name="save">GUARDAR</string>
+    <string name="add">AGREGAR</string>
+
 </resources>

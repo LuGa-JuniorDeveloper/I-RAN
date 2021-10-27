@@ -4,8 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/drawable/shape_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/drawable/shape_border_body.xml" value="0.2203125" />
+        <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/drawable/shape_border_button.xml" value="0.2203125" />
         <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/drawable/shape_border_energy.xml" value="0.2203125" />
+        <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/drawable/shape_border_title.xml" value="0.2203125" />
+        <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/layout/custom_error_dialog.xml" value="0.5" />
+        <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/layout/custom_load_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Luis_/Documents/IRAN/app/src/main/res/layout/custom_success_dialog.xml" value="0.33" />
       </map>
     </option>
   </component>

@@ -7,5 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="light_blue">#3498DB</color>
+    <color name="light_blue">#2196F3</color>
+    <color name="dark_blue">#2823bc</color>
+
+    <!-- Opacity values for gray texts, icons and dividers -->
+    <color name="black_87_Text">#E0000000</color>
+    <color name="black_54_Secondary_Text_and_Icons">#8C000000</color>
+    <color name="black_26_Disabled_and_Hint_Text">#45000000</color>
+    <color name="black_12_Dividers">#1F000000</color>
 </resources>
